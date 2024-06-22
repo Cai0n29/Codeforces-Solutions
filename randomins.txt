@@ -1,1 +1,0 @@
-Most of the python files in this repository are under division four in Codeforces. It will be updated once I solved another problems in Codeforces so make sure to check it out!
